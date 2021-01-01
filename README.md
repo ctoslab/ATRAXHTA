@@ -18,7 +18,7 @@ ATRAXHTA is a tool that automate procedures during converting any EXE to HTA ext
 
 Video Proof: 
 
-Scan Results: 
+Scan Results: https://www.kleenscan.com/scan_result/72462f2efcaf34c637ca0837e522701a026987022c4f206124d5329e72fd6575
 
 ### ⚙️ FEATURES
 
