@@ -51,6 +51,6 @@ https://www.ctoslab.com/support/
 
 If you like my work, consider buying me a coffee :)
 
-Bitcoin > 12ZGhmVWi8QboVoExWjUFinyJpaKLqAmHN
+Bitcoin > 17qcsGD3FTckSqHLH4PE4XfRtcktgAZTJm
 
 ⚠️ We are not responsible on how you use this tool. 
