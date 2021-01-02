@@ -35,7 +35,7 @@ Scan Results: https://www.kleenscan.com/scan_result/72462f2efcaf34c637ca0837e522
 4. Drag & Drop your payload
 5. and press CONVERT button & wait till process ends
 
-To learn more please watch this video: 
+To learn more please watch this video: https://youtu.be/Vwl2hpCH4YY
 
 ### 📡 HOW TO UPDATE
 
